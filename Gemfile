@@ -14,7 +14,7 @@ end
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '4.0.3'
-# Use bootstrap library for styles about gem bootsrap, 3.3.5
+# Use bootstrap library for styles about gem bootsrap, 3.3.5(testing whether to save)
 gem 'bootstrap-sass', '3.3.5'
 # Use font awesome library for icons
 gem 'font-awesome-sass', '4.4.0'
